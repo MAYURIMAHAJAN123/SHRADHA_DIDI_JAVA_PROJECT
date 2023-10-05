@@ -6,7 +6,7 @@ public class class_2 {
 		// TODO Auto-generated method stub
 		System.out.println("hi");
 		
-		System.out.println("cancelded now");
+		System.out.println("cded now");
 
 	}
 
